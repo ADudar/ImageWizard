@@ -3,11 +3,11 @@
 
 int main(int argc, char *argv[])
 {
+	setlocale( LC_CTYPE, "RUS" );
+
 	QApplication a(argc, argv);
 	ImageWizard w;
 	w.show();
-
-	// dsdfsdfsfffffffffffffffffffffffff
 
 	return a.exec();
 }

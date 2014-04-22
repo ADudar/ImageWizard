@@ -1,4 +1,6 @@
 <RCC>
-    <qresource prefix="ImageWizard">
+    <qresource prefix="/">
+        <file>Resources/mag.jpg</file>
+        <file>Resources/tilda.png</file>
     </qresource>
 </RCC>
